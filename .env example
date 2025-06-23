@@ -1,0 +1,3 @@
+DATABASE_URL="postgresql://postgres:admin@localhost:3542/taskflow"
+PORT=4000
+JWT_SECRET=supersecretkey

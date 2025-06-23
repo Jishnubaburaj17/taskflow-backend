@@ -25,6 +25,7 @@ A lightweight, developer-friendly **Task flow API** built with **Node.js, Expres
 ```bash
 git clone https://github.com/Jishnubaburaj17/taskflow-backend.git
 cd taskflow-backend
+cp .env\ example .env
 npm install
 docker-compose up -d
 npm run dev
